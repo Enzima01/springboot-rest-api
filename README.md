@@ -1,6 +1,6 @@
 # API REST com Spring Boot
 
-API REST desenvolvida com **Spring Boot**, utilizando **JPA + Hibernate** para persistência de dados, **H2** como banco de dados em memória e **Maven** para gerenciamento de dependências.
+API REST de **CRUD** desenvolvida com **Spring Boot**, utilizando **JPA + Hibernate** para persistência de dados, **H2** como banco de dados em memória e **Maven** para gerenciamento de dependências.
 
 ## Tecnologias
 - Java  
@@ -19,4 +19,4 @@ API REST desenvolvida com **Spring Boot**, utilizando **JPA + Hibernate** para p
 - **exceptions** → Tratamento global de erros  
 
 ## Banco de Dados
-- H2 em memória  
+- H2 Database Engine
